@@ -19,5 +19,6 @@ public class CountDownLatchDemo {
         }
         countDownLatch.await();
         System.out.println(Thread.currentThread().getName()+"\t close the door,秦国一统天下");
+        System.out.println(CountryEnum.ONE.getRetMessage());
     }
 }
