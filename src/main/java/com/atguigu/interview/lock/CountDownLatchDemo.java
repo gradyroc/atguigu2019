@@ -1,4 +1,4 @@
-package com.atguigu.interview;
+package com.atguigu.interview.lock;
 
 import java.util.concurrent.CountDownLatch;
 

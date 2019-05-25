@@ -1,6 +1,4 @@
-package com.atguigu.interview;
-
-import jdk.nashorn.internal.objects.annotations.Getter;
+package com.atguigu.interview.lock;
 
 /**
  * @author rociss

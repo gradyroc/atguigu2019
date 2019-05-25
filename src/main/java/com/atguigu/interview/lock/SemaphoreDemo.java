@@ -1,4 +1,4 @@
-package com.atguigu.interview;
+package com.atguigu.interview.lock;
 
 import java.util.concurrent.Semaphore;
 import java.util.concurrent.TimeUnit;
